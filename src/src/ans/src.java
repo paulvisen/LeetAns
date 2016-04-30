@@ -12,7 +12,7 @@ public  class src {
 
 
     public static void main(String []args){
-<<<<<<< HEAD
+
 /*        int [] arr={1,2,3,4,5,6};
         int profit=Leet121.maxProfit(arr);
         System.out.println(profit);*/
@@ -20,11 +20,11 @@ public  class src {
         String test="sfsfsfsfsdfsfsfewqwqs";
         System.out.println(Leet344.reverseString(test));
 
-=======
+
         int [] arr={1,2,3,4,5,6};
         int profit=Leet121.maxProfit(arr);
         System.out.println(profit);
->>>>>>> origin/master
+
     }
 
 
